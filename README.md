@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [movies watcher](https://bit.ly/3jvkOiS)
 - 🔭 I’m currently working on [Youtube Downloder](https://github.com/ismail998/YDI_B)
-- 🔭 I’m currently working on [movies watcher](https://github.com/ismail998/Clock)
+- 🔭 I’m currently working on [clock alarm](https://github.com/ismail998/Clock)
 - 🌱 I’m currently learning **PHP , laravel**
 
 - 👨‍💻 All of my projects are available at [https://ismailbelgacem.me/](https://ismailbelgacem.me/)
