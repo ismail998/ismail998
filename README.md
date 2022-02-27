@@ -4,13 +4,14 @@
 - 🔭 I’m currently working on [movies watcher](https://bit.ly/3jvkOiS)
 - 🔭 I’m currently working on [Youtube Downloder](https://github.com/ismail998/YDI_B)
 - 🔭 I’m currently working on [clock alarm](https://github.com/ismail998/Clock)
+- 🔭 I’m currently working on [PODCAST DASHBOAERD ADMIN ](https://github.com/ismail998/poadcast_admin_panel)
 - 🌱 I’m currently learning **PHP , laravel**
 
 - 👨‍💻 All of my projects are available at [https://ismailbelgacem.me/](https://ismailbelgacem.me/)
 
-- 💬 Ask me about **android studio, java ,C++ ,C**
+- 💬 Ask me about **android studio, java,PHP,JS,SQL,C++ ,C**
 
-- 📫 How to reach me **ismail@belgacem.com**
+- 📫 How to reach me **blegasemismail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
